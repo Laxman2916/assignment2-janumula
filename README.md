@@ -47,3 +47,21 @@ This table shows location and Amount of Foods.
 > If you care for people around you, you must make yourself into a person they enjoy being with. -Sadhguru
 
 ---
+
+# Algebra
+
+A generalization of arithmetic in which letters representing numbers are combined according to the rules of arithmetic
+
+[More about Algebra](https://www.merriam-webster.com/dictionary/algebra)
+
+long long binpow(long long a, long long b) {  
+    if (b == 0)  
+        return 1;  
+    long long res = binpow(a, b / 2);  
+    if (b % 2)  
+        return res * res * a;  
+    else  
+        return res * res;  
+}  
+
+[more about algerbra](https://cp-algorithms.com/algebra/binary-exp.html)
