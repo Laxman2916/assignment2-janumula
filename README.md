@@ -25,3 +25,25 @@ Switzerland is a mountainous Central **European country**, home to numerous lake
     - Extra Batteries/Charger.
     - Refillable Water Bottle.
     - Extra Cash.
+
+ **[To know more about me](Aboutme.md)**
+  # Food Table
+
+This table shows location and Amount of Foods.
+
+| *Food*                | *Location*      | *Amount*         |
+| ----------------------- | ----------------- | ------------------ |
+| Biryani                 | Hyderabad         | 200 INR            |
+| Kachori                 | Kolkata           | 150 INR            |
+| Chole Bature            | Delhi             | 100 INR            |
+| Dosa                    | Chennai           | 100 INR            |
+
+---
+
+# Quotes
+
+> Tomorrow, you must be a little better than you are today. That striving should always be there. -Sadhguru
+
+> If you care for people around you, you must make yourself into a person they enjoy being with. -Sadhguru
+
+---
